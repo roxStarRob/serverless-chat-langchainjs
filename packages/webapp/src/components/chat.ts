@@ -39,9 +39,9 @@ export const defaultOptions: ChatComponentOptions = {
   apiUrl: '',
   enablePromptSuggestions: true,
   promptSuggestions: [
-    'How to search and book rentals?',
-    'What is the refund policy?',
-    'How to contact a representative?',
+    'What is the Incident Management Roles?',
+    'Who is responsible for performing triage on an incident?',
+    'What is a First Responder?',
   ],
   messages: [],
   strings: {
